@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Drashti Raghuvanshi
+- 👋 Hi, I’m Drashti Raghuvanshi from India
 - 👀 I’m interested in Data Science and the Data Analyst Role
 - 🌱 I’m currently learning Data Science Modules
 - 💞️ I’m looking to collaborate on Data Analyst and Data Science projects in various domains.
